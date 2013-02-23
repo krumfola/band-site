@@ -1,0 +1,72 @@
+body {
+	background: url(../images/pw_maze_black_@2X.png);
+	font: times, sans-serif, serif;
+}
+
+.header h1 {
+	background: url(../images/pw_maze_black.png);
+	padding: 30px;
+	text-align: center;
+	font: times, sans-serif, serif;
+	opacity:0.6;
+	}
+
+.header a:hover {
+	color: white;
+}
+
+.header a {
+	text-decoration: none;
+	color: #076765;
+	font-size: 50px;
+	
+}
+
+.middle {
+	opacity: .7;
+}
+
+.aboutimage img {
+	float: left;
+	opacity: .8;
+	padding: 5px;
+}
+
+.aboutimage {
+	width: 940px; 
+	margin: 0 auto;
+	text-align: center;
+	font-size: 18px;
+	color: grey;
+}
+
+#text {
+	background: #141615;
+	padding: 10px;
+	width: 600px;
+	float: right;
+	margin-top: -5px;
+
+}
+
+.mediatext {
+	text-align: center;
+	color: grey;
+	font-family: fantasy;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.maptitle {
+	text-align: center;
+	color: grey;
+	text-transform: uppercase;
+	font-family: fantasy;
+	font-size: 40px;
+}
+
+.map {
+	width: 425px;
+	margin: 0 auto;
+}
+
